@@ -4,7 +4,7 @@ const inputFieldEl = document.getElementById("amount-one");
 const exchangeResultsEl = document.getElementById("amount-two");
 const exchangeRateEl = document.getElementById("exchange-rate");
 
-const apiKey = "ff97e1bcdcca273541fa0c17";
+const apiKey = "Your_APIKEY";
 
 const getCurrencies = async () => {
   try {
